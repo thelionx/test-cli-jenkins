@@ -6,6 +6,7 @@ public class First : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		Debug.Log("First!!");
+		Debug.Log("Second!!");
 	}
 	
 	// Update is called once per frame
