@@ -7,6 +7,7 @@ public class First : MonoBehaviour {
 	void Start () {
 		Debug.Log("First!!");
 		Debug.Log("Second!!");
+		Debug.Log("THIRD!"");
 	}
 	
 	// Update is called once per frame
